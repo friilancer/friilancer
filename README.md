@@ -1,7 +1,3 @@
-[![MasterHead](https://images.unsplash.com/photo-1564760290292-23341e4df6ec?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)](https://github.com/ani-abule)
-<h1 align="center">Hi 👋, I'm Ani Etukudo</h1>
-<h3 align="center">A software engineer and a citizen of the web</h3>
-
 <p align="left"> <a href="https://twitter.com/anietukudo" target="blank"><img src="https://img.shields.io/twitter/follow/anietukudo?logo=twitter&style=for-the-badge" alt="anietukudo" /></a> </p>
 
 - 🔭 I’m currently working on [Abulé](https://app.abule.io/)
