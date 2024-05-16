@@ -1,6 +1,6 @@
 <p align="left"> <a href="https://twitter.com/anietukudo" target="blank"><img src="https://img.shields.io/twitter/follow/anietukudo?logo=twitter&style=for-the-badge" alt="anietukudo" /></a> </p>
 
-- 🔭 I’m currently working on [Abulé](https://app.abule.io/)
+<!--- - 🔭 I’m currently working on [Abulé](https://app.abule.io/) --->
 
 - 🌱 I’m currently learning **Python**
 
